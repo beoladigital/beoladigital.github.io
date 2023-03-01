@@ -3,6 +3,7 @@ layout: post
 title:  "Create a single page React app with Odoo custom module"
 date:   2019-08-02 00:16:33 +0700
 tags: [odoo,react]
+redirect_to: https://blog.bitbriks.com/create-react-module-in-odoo-as-standalone-app/
 ---
 
 Odoo add-on allows very flexible customization. For most custom modules, adding an form view or table view to admin page is enough. However sometimes the custom module may need to create an entirely different UI layout (think Gantt chart, custom dashboard...). In this post, we are going through the steps required to add a non-standard interface to Odoo, a single page React based To-do app. The purpose is, in other words, to create a scaffold for standalone screen similar to that of the `point-of-sale` module. 

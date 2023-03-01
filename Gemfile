@@ -33,3 +33,6 @@ gem "jekyll-sitemap"
 
 # highlighter
 gem "rouge"
+
+# redirect
+gem 'jekyll-redirect-from'

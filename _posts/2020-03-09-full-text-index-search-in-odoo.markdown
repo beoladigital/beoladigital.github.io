@@ -3,6 +3,7 @@ layout: post
 title:  "Full text search in Odoo Ecommerce Website"
 date:   2020-03-09 00:16:33 +0700
 categories: odoo, search, performance, postgresql
+redirect_to: https://blog.bitbriks.com/full-text-search-in-odoo-with-postgres-tsvector/
 ---
 
 Helping customers find the right products quickly is crucial to running a successful ecommerce website. Therefore, product searching deserves attention to its performance. Odoo, a batteries included solution to managing enterpries, comes with its own off-the-shelf search functionality. It works out of the box with reasonable speed for small inventory. For larger product collection, it leaves something to be desired. In this post, we are looking at how Odoo is implementing its search function and possible methods to speed it up. 

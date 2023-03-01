@@ -3,6 +3,7 @@ layout: post
 title:  "Run Babel transpiler on React with Odoo's asset bundling"
 date:   2019-07-30 00:12:33 +0700
 tags: [odoo,babel,react]
+redirect_to: https://blog.bitbriks.com/how-to-run-babel-jsx-in-odoo-web-module/
 ---
 
 Odoo web client default framework is based on a combination of jQuery and BackboneJS. Now, jQuery is old but it is not necessary worse. Technologies serve its purpose as long as it works and meet requirements. However, there is cases when non-product requirements need to be considered such as when your development team is heavily invested on, say ReactJs, and productivity can be greatly improved when the familiar toolset is available. Needless to say, productivity means cost saving. Thus, this post quickly looks into necessary steps to integrate Babel transpiler with Odoo's asset bundling.
