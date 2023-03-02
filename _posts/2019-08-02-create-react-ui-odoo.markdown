@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirect 
 title:  "Create a single page React app with Odoo custom module"
 date:   2019-08-02 00:16:33 +0700
 tags: [odoo,react]

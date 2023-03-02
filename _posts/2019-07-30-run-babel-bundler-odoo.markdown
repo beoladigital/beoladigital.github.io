@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirect 
 title:  "Run Babel transpiler on React with Odoo's asset bundling"
 date:   2019-07-30 00:12:33 +0700
 tags: [odoo,babel,react]

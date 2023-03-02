@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: redirect 
 title:  "Full text search in Odoo Ecommerce Website"
 date:   2020-03-09 00:16:33 +0700
 categories: odoo, search, performance, postgresql
