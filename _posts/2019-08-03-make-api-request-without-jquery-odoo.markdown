@@ -3,6 +3,7 @@ layout: post
 title:  "Make api request in Odoo without jQuery"
 date:   2019-08-03 21:16:33 +0700
 tags: [odoo,performance]
+redirect_to: https://blog.bitbriks.com/make-api-request-in-odoo-without-jquery/
 ---
 
 Odoo is a powerful workhorse that comes with a ton of functionalities built-in. That sometimes comes at a cost of bloated code with more functionalities than needed. For example, the common javascript bundle `web.assets_common.js` is pretty large (about 1MB), including anything from jQuery, Bootstrap to QWeb. If our aim is to create an independent front-end client with a UI framework of choice, say React, why bother including all that. So in this post, we will be trying to create a very thin api client to Odoo's backend. 
